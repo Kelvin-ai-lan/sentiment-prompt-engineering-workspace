@@ -1,3 +1,4 @@
 gcp-key.json
 __pycache__/
 *.pyc
+.vscode/mcp.json
